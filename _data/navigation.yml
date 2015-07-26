@@ -1,7 +1,16 @@
 # Menu navigation links
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: External Link
-  url: http://mademistakes.com
+- title: About
+  url: "#about"
+- title: Wiki
+  url: http://willbeaum.dartmouth.edu/~avsynth/2015/wiki/doku.php
+  external: true
+- title: Participants
+  url: "/participants.html"
+- title: Talks
+  url: "/talks.html"
+- title: Schedule
+  url: "#schedule"
+- title: Venue
+  url: "#venue"
+- title: Travel
+  url: "#travel"

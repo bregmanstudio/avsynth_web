@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
-reading_time:     true
+title:            "Workshop in the Woods: Audio Visual Synthesis"
+description:      Info site for AV Synth workshop.
+disqus_shortname:
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:              http://willbeaum.dartmouth.edu/~avsynth/2015
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Bregman Music Audio Research Studio
+  avatar:         icon.jpg
+  bio:            "A three day workshop on audio visual synthesis for creative computer scientists, programmers, musicians, and visual artists."
+  email:          sarroff@cs.dartmouth.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -22,8 +22,9 @@ owner:
   instagram:      
   flickr:         
   tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +AndySarroff
 
 # Background image to be tiled on all pages
 background: 
@@ -49,7 +50,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 100
 
 kramdown:
   auto_ids: true
